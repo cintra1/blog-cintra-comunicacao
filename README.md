@@ -1,4 +1,4 @@
-# blog-cintra-comunicacao
+# Blog para a Cintra Comunicação - WordPress e Elementor
 
 ![cblog-eyecatch](https://github.com/cintra1/blog-cintra-comunicacao/assets/101955322/047fec2f-069b-4699-8b4f-9621b0a47103)
 ![cblog-scrow](https://github.com/cintra1/blog-cintra-comunicacao/assets/101955322/6615482f-d653-4217-bba4-e7c605293c4f)
