@@ -5,7 +5,7 @@
 ![cblog-news](https://github.com/cintra1/blog-cintra-comunicacao/assets/101955322/d332654e-76dc-4c12-b75f-8c8ab1623db7)
 
 
-#
+## Sobre
 Um blog para conhecer os serviços da empresa e as principais notícias e informações sobre marketing digital.
 
 # Como Acessar?
